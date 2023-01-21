@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+    padding-left: center;
+}
+
+td {
+    background-color: cyan;
+}
+
+table {
+    background-color: antiquewhite;
+
+}
+
+.highlight {
+    background-color: #7FDBFF;
+}
